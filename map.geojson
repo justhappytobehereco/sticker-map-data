@@ -1,4 +1,31 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-87.8839312,
+			43.0705888
+		]
+	},
+	"properties": {
+		"image": "https://v5.airtableusercontent.com/v3/u/52/52/1777615200000/aW2pr8LbK-BAGAV_V8athQ/jrGP_sTqIe1Saee1RhDQT1MgfjjpTfxhqB8uZVrBymHypGjDg-wcOGIlTcDLiyzbpuQOV7JcQLWtt8HeBhwv-TNWBz3Ax8wO_q8b9CDshiZymsRIAq0SAUPxvOexqlbZcKv204mHxffXIi7X6DjhzjPvOUoF1rLziCm7xGhBqiAcvZndpGZk8UNowa7VjXkh/PVccKdedGtD3RGoj8J9qhUm0KiQzx9xLjoaA2gWI9_M",
+		"caption": "right by the mailbox"
+	}
+},{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-87.8874793,
+			43.0763404
+		]
+	},
+	"properties": {
+		"image": "https://v5.airtableusercontent.com/v3/u/52/52/1777615200000/_79NTp3fQ7PSou-BmBxbIA/B50ndh6G-ugOsv4STuCfcx3F_UsoyShdZVQBqYI0PG83_ad9KjKE3eKw51gyCG-LMlREYOOP5ljAmD5hxWao0YAcXzPfUVsFp07pUcj8Lzdom0qRvd8yB4sX6tEuDRoj00eIQE0gd_HVJJHOKIupKKdKv6FuQQl_CuKmMC2AHIX9dqiHJjCywZPROrbVUYM4/BAv-MzP-IruwhccKTY7rVXkeHx-tQObLBUhEIEixy24",
+		"caption": "Sign"
+	}
+}  ]
 }
