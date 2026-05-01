@@ -27,5 +27,18 @@
 		"image": "https://v5.airtableusercontent.com/v3/u/52/52/1777665600000/H0IrD5UWLdohdd1DFUcOmw/XNv41p2I0PM4JG6ylBGk4oOgimCzhgfXA_fUGgWxvjwJhto_hz0EHvaiHLz8ruy4o6MsPwycBJP_W2nl9EvfXEDOqO4kZloTBlp5DFFScDV8PIv6SiKGtjiJKhpu1DiIinBVV6MZ2puPK5JiEmedoSHde1MXt13fD1kGRBMl4nmb5EzwZcTFrTTs9_M-uWDA/DgIczXno5YZ6vsg16R1I_SSakEzL2x9u9WeUwFuQTX8",
 		"caption": "Sign"
 	}
+},{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-88.1315405,
+			43.104643
+		]
+	},
+	"properties": {
+		"image": "https://v5.airtableusercontent.com/v3/u/52/52/1777665600000/bklSGXaWxXodSUChLc06Vw/knzpXMhzCgSgHB0Gwy6RWVRK4EDk4NAWpKzWZbOnJFa27dlvhw_c3JPipERQk2jX9psCibNgR3ZnWCXOyQ4BVi78y2lEvUPwsp6ht9067XiAYJJ1Brf5AhvFAjPJGQW-4RaK275GiZIa-dNA0QCOjlTv70dj4Knkggyr2pZMscY/zxwTThNezGBWibVwj4aMVcXYPBR0RpwQjA0V4lQ9Vxw",
+		"caption": "Willis the whale/dolphin/shark"
+	}
 }  ]
 }
