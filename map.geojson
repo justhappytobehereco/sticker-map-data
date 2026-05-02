@@ -1710,6 +1710,168 @@
         "location_source": "photo_exif_gps",
         "location_format": "latitude_longitude"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1667694444444443,
+          41.36475277777778
+        ]
+      },
+      "properties": {
+        "caption": "The sticker is placed just a little right of the graffiti man!",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec2AceszbBAFcxIN.webp",
+        "record_id": "rec2AceszbBAFcxIN",
+        "location": "41.364753, 2.166769",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91143055555555,
+          43.026177777777775
+        ]
+      },
+      "properties": {
+        "caption": "Dumpster",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recfQUl3vAe3CBRqO.webp",
+        "record_id": "recfQUl3vAe3CBRqO",
+        "location": "43.026178, -87.911431",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04672222222221,
+          43.001325
+        ]
+      },
+      "properties": {
+        "caption": "Oscars",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recT0H3nznF9E7O7Y.webp",
+        "record_id": "recT0H3nznF9E7O7Y",
+        "location": "43.001325, -88.046722",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04673888888888,
+          43.00131944444445
+        ]
+      },
+      "properties": {
+        "caption": "Good luck",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec6g38lnl89XRKWp.webp",
+        "record_id": "rec6g38lnl89XRKWp",
+        "location": "43.001319, -88.046739",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25344722222222,
+          44.982525
+        ]
+      },
+      "properties": {
+        "caption": "Little hook on the trail",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recWFrJJm7zcpp9CE.webp",
+        "record_id": "recWFrJJm7zcpp9CE",
+        "location": "44.982525, -93.253447",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25612777777778,
+          44.98827777777778
+        ]
+      },
+      "properties": {
+        "caption": "Back of the sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recaG7b3k6VxXcDsm.webp",
+        "record_id": "recaG7b3k6VxXcDsm",
+        "location": "44.988278, -93.256128",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25453055555556,
+          44.99019722222222
+        ]
+      },
+      "properties": {
+        "caption": "Transformer",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec9OdKAcVaXO7pAo.webp",
+        "record_id": "rec9OdKAcVaXO7pAo",
+        "location": "44.990197, -93.254531",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28505833333332,
+          44.94859722222222
+        ]
+      },
+      "properties": {
+        "caption": "Rat boy pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec34lDcvCBHWBz1t.webp",
+        "record_id": "rec34lDcvCBHWBz1t",
+        "location": "44.948597, -93.285058",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66094166666667,
+          45.571561111111116
+        ]
+      },
+      "properties": {
+        "caption": "Transformer",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recm599ElRZTgHxmq.webp",
+        "record_id": "recm599ElRZTgHxmq",
+        "location": "45.571561, -122.660942",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
     }
   ]
 }
