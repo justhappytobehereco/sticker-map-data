@@ -24,6 +24,1644 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -87.8826594,
+          43.0708706
+        ]
+      },
+      "properties": {
+        "caption": "Locust and Frederick stop sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec8x6fQVnJkAHURJ.webp",
+        "record_id": "rec8x6fQVnJkAHURJ",
+        "location": "43.0709320,-87.8829393",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8838344,
+          43.0725462
+        ]
+      },
+      "properties": {
+        "caption": "Red Pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec16Rl6ep5VKAHgc.webp",
+        "record_id": "rec16Rl6ep5VKAHgc",
+        "location": "43.0725967,-87.8840702",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8839192,
+          43.0744489
+        ]
+      },
+      "properties": {
+        "caption": "Fredrick and Kenwood Stop Sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recyYFs3jO8W9Wj1Z.webp",
+        "record_id": "recyYFs3jO8W9Wj1Z",
+        "location": "43.0745105,-87.8840548",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.884501,
+          43.0755383
+        ]
+      },
+      "properties": {
+        "caption": "Sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reciYbRYwjqXOp7Np.webp",
+        "record_id": "reciYbRYwjqXOp7Np",
+        "location": "43.0748540,-87.8844813",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.884501,
+          43.0755383
+        ]
+      },
+      "properties": {
+        "caption": "Bike racks",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec1zrNPnHfxx2l8N.webp",
+        "record_id": "rec1zrNPnHfxx2l8N",
+        "location": "43.0748844,-87.8843861",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.885153,
+          43.0743722
+        ]
+      },
+      "properties": {
+        "caption": "Murray and kenwood Stop Sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reckum8qs200W9gNq.webp",
+        "record_id": "reckum8qs200W9gNq",
+        "location": "43.0745101,-87.8852746",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8857911,
+          43.0743774
+        ]
+      },
+      "properties": {
+        "caption": "Pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recMpq4XUBWGB4GJE.webp",
+        "record_id": "recMpq4XUBWGB4GJE",
+        "location": "43.0745473,-87.8858128",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8864151,
+          43.074383
+        ]
+      },
+      "properties": {
+        "caption": "Stop Sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recu6YelxdYrKMg4Z.webp",
+        "record_id": "recu6YelxdYrKMg4Z",
+        "location": "43.0745459,-87.8865311",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8864151,
+          43.074383
+        ]
+      },
+      "properties": {
+        "caption": "Bent sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recBr71Tl4dICUrCI.webp",
+        "record_id": "recBr71Tl4dICUrCI",
+        "location": "43.0745734,-87.8864866",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8877613,
+          43.0744866
+        ]
+      },
+      "properties": {
+        "caption": "Traffic light",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recxKlKgfAPiHI3ZD.webp",
+        "record_id": "recxKlKgfAPiHI3ZD",
+        "location": "43.0745289,-87.8877593",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8881908,
+          43.0748004
+        ]
+      },
+      "properties": {
+        "caption": "Traffic light",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recrQ0d1DzMZtiKvM.webp",
+        "record_id": "recrQ0d1DzMZtiKvM",
+        "location": "43.0746337,-87.8880201",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8881908,
+          43.0748004
+        ]
+      },
+      "properties": {
+        "caption": "Sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recJmrvRkboRV1FgP.webp",
+        "record_id": "recJmrvRkboRV1FgP",
+        "location": "43.0746435,-87.8882325",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8881908,
+          43.0748004
+        ]
+      },
+      "properties": {
+        "caption": "Bus stop",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recXRrY6l65nCzaDG.webp",
+        "record_id": "recXRrY6l65nCzaDG",
+        "location": "43.0748328,-87.8880228",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8874524,
+          43.0756019
+        ]
+      },
+      "properties": {
+        "caption": "Two cans",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recsHhCcCppzMOLfO.webp",
+        "record_id": "recsHhCcCppzMOLfO",
+        "location": "43.0755731,-87.8872579",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8861139,
+          43.0757005
+        ]
+      },
+      "properties": {
+        "caption": "Trash",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recmqGR2uSHADCS9W.webp",
+        "record_id": "recmqGR2uSHADCS9W",
+        "location": "43.0755348,-87.8864828",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8852029,
+          43.075692
+        ]
+      },
+      "properties": {
+        "caption": "Repair station",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recJe8y2oEvtE0Msc.webp",
+        "record_id": "recJe8y2oEvtE0Msc",
+        "location": "43.0755967,-87.8852821",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8831246,
+          43.0762581
+        ]
+      },
+      "properties": {
+        "caption": "Trash can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec7Rfv5eXgfhovEt.webp",
+        "record_id": "rec7Rfv5eXgfhovEt",
+        "location": "43.0763450,-87.8831303",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.883004,
+          43.0775862
+        ]
+      },
+      "properties": {
+        "caption": "Stop Light",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recOahpbzV9VLbc4B.webp",
+        "record_id": "recOahpbzV9VLbc4B",
+        "location": "43.0775452,-87.8829191",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8827191,
+          43.0780956
+        ]
+      },
+      "properties": {
+        "caption": "Trash can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recH537PGvHiCtBpc.webp",
+        "record_id": "recH537PGvHiCtBpc",
+        "location": "43.0780406,-87.8822580",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8815651,
+          43.0784228
+        ]
+      },
+      "properties": {
+        "caption": "Trash",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recOffVdaAixaRb6J.webp",
+        "record_id": "recOffVdaAixaRb6J",
+        "location": "43.0785215,-87.8817017",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8811756,
+          43.0764007
+        ]
+      },
+      "properties": {
+        "caption": "Trash",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recuehKgoeMSjYNgA.webp",
+        "record_id": "recuehKgoeMSjYNgA",
+        "location": "43.0765019,-87.8809712",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8815651,
+          43.0784228
+        ]
+      },
+      "properties": {
+        "caption": "The poles",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recgpt5GdsIQQb4UK.webp",
+        "record_id": "recgpt5GdsIQQb4UK",
+        "location": "43.0782529,-87.8817245",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8815651,
+          43.0784228
+        ]
+      },
+      "properties": {
+        "caption": "Picnic table",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recxJb8hQdfLizmGA.webp",
+        "record_id": "recxJb8hQdfLizmGA",
+        "location": "43.0784714,-87.8820033",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8815316,
+          43.0775445
+        ]
+      },
+      "properties": {
+        "caption": "Sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec42qxhVb4wv6q3D.webp",
+        "record_id": "rec42qxhVb4wv6q3D",
+        "location": "43.0773244,-87.8814014",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879897,
+          43.0775685
+        ]
+      },
+      "properties": {
+        "caption": "Light pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recS8yuybtyYnmZc5.webp",
+        "record_id": "recS8yuybtyYnmZc5",
+        "location": "43.0777754,-87.8798445",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9142022,
+          43.0418849
+        ]
+      },
+      "properties": {
+        "caption": "Water fountain",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recCIDvgg0pv5dbiQ.webp",
+        "record_id": "recCIDvgg0pv5dbiQ",
+        "location": "43.0421231,-87.9140812",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9138243,
+          43.0416533
+        ]
+      },
+      "properties": {
+        "caption": "Utility",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recHIyMETRqMSLdWJ.webp",
+        "record_id": "recHIyMETRqMSLdWJ",
+        "location": "43.0417448,-87.9138306",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9142022,
+          43.0418849
+        ]
+      },
+      "properties": {
+        "caption": "Utility",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recJLIwllRegs3mOn.webp",
+        "record_id": "recJLIwllRegs3mOn",
+        "location": "43.0416280,-87.9143169",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9151199,
+          43.0419769
+        ]
+      },
+      "properties": {
+        "caption": "Parking sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recSuE93zkBe88vRs.webp",
+        "record_id": "recSuE93zkBe88vRs",
+        "location": "43.0416952,-87.9146484",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.915523,
+          43.0440796
+        ]
+      },
+      "properties": {
+        "caption": "Pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recp3EgZrGoy73y6Y.webp",
+        "record_id": "recp3EgZrGoy73y6Y",
+        "location": "43.0440038,-87.9158541",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9158404,
+          43.0438777
+        ]
+      },
+      "properties": {
+        "caption": "Pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recbFRrQ0XqSHNn7H.webp",
+        "record_id": "recbFRrQ0XqSHNn7H",
+        "location": "43.0438530,-87.9158784",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.915523,
+          43.0440796
+        ]
+      },
+      "properties": {
+        "caption": "Pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recAFVOeGmj2Kb1YB.webp",
+        "record_id": "recAFVOeGmj2Kb1YB",
+        "location": "43.0441647,-87.9158436",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.915523,
+          43.0440796
+        ]
+      },
+      "properties": {
+        "caption": "Pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recrMBFqQRQSuhDK4.webp",
+        "record_id": "recrMBFqQRQSuhDK4",
+        "location": "43.0442411,-87.9157738",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9157497,
+          43.0449916
+        ]
+      },
+      "properties": {
+        "caption": "Poles",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recHSAmt0O05dRb9Z.webp",
+        "record_id": "recHSAmt0O05dRb9Z",
+        "location": "43.0443851,-87.9159816",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9149567,
+          43.0451004
+        ]
+      },
+      "properties": {
+        "caption": "Atm",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recbHVuHAmuCKrVuU.webp",
+        "record_id": "recbHVuHAmuCKrVuU",
+        "location": "43.0451100,-87.9150633",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9146878,
+          43.0449314
+        ]
+      },
+      "properties": {
+        "caption": "Uncle bucks bathroom",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec3YDmyTnBQkO6z1.webp",
+        "record_id": "rec3YDmyTnBQkO6z1",
+        "location": "43.0449358,-87.9146551",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9140876,
+          43.0404592
+        ]
+      },
+      "properties": {
+        "caption": "George web",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recpthgpRGxS4U1cd.webp",
+        "record_id": "recpthgpRGxS4U1cd",
+        "location": "43.0406118,-87.9144053",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9140788,
+          43.0407335
+        ]
+      },
+      "properties": {
+        "caption": "George web",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recFIN8CGDltBn3Vo.webp",
+        "record_id": "recFIN8CGDltBn3Vo",
+        "location": "43.0406696,-87.9143450",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9140876,
+          43.0404592
+        ]
+      },
+      "properties": {
+        "caption": "George web",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recpPiDLWcWC1Kpwj.webp",
+        "record_id": "recpPiDLWcWC1Kpwj",
+        "location": "43.0405201,-87.9144147",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9140876,
+          43.0404592
+        ]
+      },
+      "properties": {
+        "caption": "George web",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec8nnNhhE32reGOs.webp",
+        "record_id": "rec8nnNhhE32reGOs",
+        "location": "43.0403888,-87.9143940",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9143544,
+          43.0392491
+        ]
+      },
+      "properties": {
+        "caption": "Canary coffee",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recqrecsHQWdMqlWh.webp",
+        "record_id": "recqrecsHQWdMqlWh",
+        "location": "43.0392986,-87.9144289",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.0448236,
+          44.4882454
+        ]
+      },
+      "properties": {
+        "caption": "Disc Golf Course (on sign)",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recvEaJ8oKncGmOso.webp",
+        "record_id": "recvEaJ8oKncGmOso",
+        "location": "44.4887248,-108.0446936",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8831246,
+          43.0762581
+        ]
+      },
+      "properties": {
+        "caption": "Caution Sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recPOZH4Ie94vJEHJ.webp",
+        "record_id": "recPOZH4Ie94vJEHJ",
+        "location": "43.0764676,-87.8825596",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8817684,
+          43.0762373
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recgE8Kl4HAZ6BOnF.webp",
+        "record_id": "recgE8Kl4HAZ6BOnF",
+        "location": "43.0764494,-87.8816241",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8831246,
+          43.0762581
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rectJIqLQrTYYVOdA.webp",
+        "record_id": "rectJIqLQrTYYVOdA",
+        "location": "43.0764681,-87.8826603",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8811756,
+          43.0764007
+        ]
+      },
+      "properties": {
+        "caption": "pls recycle",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recENCXQ0YWDce3YF.webp",
+        "record_id": "recENCXQ0YWDce3YF",
+        "location": "43.0764123,-87.8811431",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8804654,
+          43.0766907
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec16uXDP5NoRfZbG.webp",
+        "record_id": "rec16uXDP5NoRfZbG",
+        "location": "43.0765382,-87.8806673",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8810272,
+          43.0757678
+        ]
+      },
+      "properties": {
+        "caption": "Other trashcan",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recnYsdsGJhW2kl70.webp",
+        "record_id": "recnYsdsGJhW2kl70",
+        "location": "43.0758346,-87.8807514",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.880269,
+          43.0762796
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec36S8CehxlX43GT.webp",
+        "record_id": "rec36S8CehxlX43GT",
+        "location": "43.0763280,-87.8802968",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.880816,
+          43.0757462
+        ]
+      },
+      "properties": {
+        "caption": "Garbage can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec63gsP01zj5Kujv.webp",
+        "record_id": "rec63gsP01zj5Kujv",
+        "location": "43.0756974,-87.8808605",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8805163,
+          43.0755435
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recNvPEBlDNw9dB6D.webp",
+        "record_id": "recNvPEBlDNw9dB6D",
+        "location": "43.0758401,-87.8805676",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8805163,
+          43.0755435
+        ]
+      },
+      "properties": {
+        "caption": "garbage",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recTixdDSWjx8uejB.webp",
+        "record_id": "recTixdDSWjx8uejB",
+        "location": "43.0756872,-87.8805301",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8795016,
+          43.0765842
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recEooKEyCsHIdoMZ.webp",
+        "record_id": "recEooKEyCsHIdoMZ",
+        "location": "43.0764274,-87.8795072",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8790616,
+          43.0766431
+        ]
+      },
+      "properties": {
+        "caption": "bike rack",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec9WWVlLvyoXGrsN.webp",
+        "record_id": "rec9WWVlLvyoXGrsN",
+        "location": "43.0765940,-87.8790043",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8790616,
+          43.0766431
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recac50yUS8F3YBns.webp",
+        "record_id": "recac50yUS8F3YBns",
+        "location": "43.0766265,-87.8790138",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879897,
+          43.0775685
+        ]
+      },
+      "properties": {
+        "caption": "Landfill",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reczJw7h8BGu2Pwtj.webp",
+        "record_id": "reczJw7h8BGu2Pwtj",
+        "location": "43.0775549,-87.8793964",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.879897,
+          43.0775685
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recKdWuTABR8rtTNQ.webp",
+        "record_id": "recKdWuTABR8rtTNQ",
+        "location": "43.0775477,-87.8798515",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8800184,
+          43.0775386
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recNcYGD5mv8rS2bD.webp",
+        "record_id": "recNcYGD5mv8rS2bD",
+        "location": "43.0777232,-87.8800345",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8804856,
+          43.0776759
+        ]
+      },
+      "properties": {
+        "caption": "light pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recVqm6qQm8erkmfx.webp",
+        "record_id": "recVqm6qQm8erkmfx",
+        "location": "43.0776881,-87.8806651",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8799654,
+          43.0798224
+        ]
+      },
+      "properties": {
+        "caption": "Sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recr8BHDM8YcuaJ9P.webp",
+        "record_id": "recr8BHDM8YcuaJ9P",
+        "location": "43.0796142,-87.8800925",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8799654,
+          43.0798224
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recBdhgPvW7Jmu2wl.webp",
+        "record_id": "recBdhgPvW7Jmu2wl",
+        "location": "43.0797585,-87.8799722",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8817807,
+          43.0792979
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recuU11HBBAUi3Pe4.webp",
+        "record_id": "recuU11HBBAUi3Pe4",
+        "location": "43.0797329,-87.8811263",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8817807,
+          43.0792979
+        ]
+      },
+      "properties": {
+        "caption": "basketball hoop",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recVzJKSIvwChMMYX.webp",
+        "record_id": "recVzJKSIvwChMMYX",
+        "location": "43.0800104,-87.8818895",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.882465,
+          43.0791117
+        ]
+      },
+      "properties": {
+        "caption": "one way sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recGia5EVUzE0Hxc7.webp",
+        "record_id": "recGia5EVUzE0Hxc7",
+        "location": "43.0792033,-87.8825868",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.882465,
+          43.0791117
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recl5tv3M41mv9C3U.webp",
+        "record_id": "recl5tv3M41mv9C3U",
+        "location": "43.0789541,-87.8825199",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8826281,
+          43.0776883
+        ]
+      },
+      "properties": {
+        "caption": "Pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recSUHjQKmEgNIJbG.webp",
+        "record_id": "recSUHjQKmEgNIJbG",
+        "location": "43.0776815,-87.8826620",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8826281,
+          43.0776883
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recTaLPA3nG2XEFRP.webp",
+        "record_id": "recTaLPA3nG2XEFRP",
+        "location": "43.0777098,-87.8825161",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8826281,
+          43.0776883
+        ]
+      },
+      "properties": {
+        "caption": "bus stop bench",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recs0SQsJhTfBvlza.webp",
+        "record_id": "recs0SQsJhTfBvlza",
+        "location": "43.0776655,-87.8825818",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8815316,
+          43.0775445
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recuMSxHrFlu10yIM.webp",
+        "record_id": "recuMSxHrFlu10yIM",
+        "location": "43.0777280,-87.8816267",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8780413,
+          43.0768632
+        ]
+      },
+      "properties": {
+        "caption": "Pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recfKWIypJhjyDMJS.webp",
+        "record_id": "recfKWIypJhjyDMJS",
+        "location": "43.0769354,-87.8780416",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8776863,
+          43.0754163
+        ]
+      },
+      "properties": {
+        "caption": "bus stop garbage",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recVFuD2W5Oe91A8F.webp",
+        "record_id": "recVFuD2W5Oe91A8F",
+        "location": "43.0756627,-87.8779346",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8780414,
+          43.0749398
+        ]
+      },
+      "properties": {
+        "caption": "bus stop",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recvygDArSz06Ibnb.webp",
+        "record_id": "recvygDArSz06Ibnb",
+        "location": "43.0749574,-87.8780312",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8789889,
+          43.0747534
+        ]
+      },
+      "properties": {
+        "caption": "garbage",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recWykRlabFkpfqey.webp",
+        "record_id": "recWykRlabFkpfqey",
+        "location": "43.0747928,-87.8788359",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8789889,
+          43.0747534
+        ]
+      },
+      "properties": {
+        "caption": "bench",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recb8rBr7ndMdSlk6.webp",
+        "record_id": "recb8rBr7ndMdSlk6",
+        "location": "43.0748007,-87.8786827",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8809138,
+          43.0747699
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recYAY4Hg4Yv6UikN.webp",
+        "record_id": "recYAY4Hg4Yv6UikN",
+        "location": "43.0747777,-87.8810021",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8809138,
+          43.0747699
+        ]
+      },
+      "properties": {
+        "caption": "garbage",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reczHQHSKI8i3yPdQ.webp",
+        "record_id": "reczHQHSKI8i3yPdQ",
+        "location": "43.0747642,-87.8807603",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8817671,
+          43.07506
+        ]
+      },
+      "properties": {
+        "caption": "Can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rectAceGpxz2NvKja.webp",
+        "record_id": "rectAceGpxz2NvKja",
+        "location": "43.0747813,-87.8820146",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8825175,
+          43.0747606
+        ]
+      },
+      "properties": {
+        "caption": "can",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rectUNFPS7Lv0mzoM.webp",
+        "record_id": "rectUNFPS7Lv0mzoM",
+        "location": "43.0747884,-87.8824146",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8827318,
+          43.0748109
+        ]
+      },
+      "properties": {
+        "caption": "Light",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recMZ6BZiyDNibVSd.webp",
+        "record_id": "recMZ6BZiyDNibVSd",
+        "location": "43.0747615,-87.8827496",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8826627,
+          43.0743591
+        ]
+      },
+      "properties": {
+        "caption": "Walk",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec0vV487xZmZ3aFB.webp",
+        "record_id": "rec0vV487xZmZ3aFB",
+        "location": "43.0746382,-87.8827462",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8826627,
+          43.0743591
+        ]
+      },
+      "properties": {
+        "caption": "Walk",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec0KEcvB544V2U0P.webp",
+        "record_id": "rec0KEcvB544V2U0P",
+        "location": "43.0745487,-87.8827542",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.883309,
+          43.0743968
+        ]
+      },
+      "properties": {
+        "caption": "Walk",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recPB9bNkF7AH0bDu.webp",
+        "record_id": "recPB9bNkF7AH0bDu",
+        "location": "43.0745425,-87.8830548",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8839651,
+          43.0743274
+        ]
+      },
+      "properties": {
+        "caption": "Box",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recIzGi2FR7aiDdSZ.webp",
+        "record_id": "recIzGi2FR7aiDdSZ",
+        "location": "43.0744589,-87.8842791",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0619681,
+          44.5009705
+        ]
+      },
+      "properties": {
+        "caption": "Section 108 Row 13 Seat 6",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recclSMsYia53Gc86.webp",
+        "record_id": "recclSMsYia53Gc86",
+        "location": "44.5018586,-88.0627583",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0770297,
+          40.5878884
+        ]
+      },
+      "properties": {
+        "caption": "Electrical Box",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recNoL3BmVxmLtWIc.webp",
+        "record_id": "recNoL3BmVxmLtWIc",
+        "location": "40.5877800,-105.0768600",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5232017,
+          40.3760212
+        ]
+      },
+      "properties": {
+        "caption": "The Slab Pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recvlwxcEar0FM9zH.webp",
+        "record_id": "recvlwxcEar0FM9zH",
+        "location": "40.3761600,-105.5231900",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6986825,
+          42.8623982
+        ]
+      },
+      "properties": {
+        "caption": "Communal Ash Tray with view of Mount Yotei",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recqxla1Yc1a0Q1nN.webp",
+        "record_id": "recqxla1Yc1a0Q1nN",
+        "location": "42.8620000,140.6988000",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7201557,
+          42.8645016
+        ]
+      },
+      "properties": {
+        "caption": "On the door of \"The Fridge\"",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recRPdV2FvAerYXPc.webp",
+        "record_id": "recRPdV2FvAerYXPc",
+        "location": "42.8644400,140.7200800",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6986021,
+          35.6821441
+        ]
+      },
+      "properties": {
+        "caption": "Shibuya Record Store",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recfJlMtViFuUF91d.webp",
+        "record_id": "recfJlMtViFuUF91d",
+        "location": "35.6820000,139.6986000",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7083391,
+          45.3297006
+        ]
+      },
+      "properties": {
+        "caption": "Timberline Lodge Electrical Box",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec8bD1PlKa9IlwCG.webp",
+        "record_id": "rec8bD1PlKa9IlwCG",
+        "location": "45.3305600,-121.7090900",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3398198,
+          47.6087292
+        ]
+      },
+      "properties": {
+        "caption": "Public Market Pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recTTiHddCFAjHln7.webp",
+        "record_id": "recTTiHddCFAjHln7",
+        "location": "47.6087200,-122.3398300",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.1587527777777775,
           41.41206666666667
         ]
