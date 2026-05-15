@@ -1872,6 +1872,510 @@
         "location_source": "photo_exif_gps",
         "location_format": "latitude_longitude"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.47104722222223,
+          33.98436388888889
+        ]
+      },
+      "properties": {
+        "caption": "On the wall",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recsfCefwcARGxbj2.webp",
+        "record_id": "recsfCefwcARGxbj2",
+        "location": "33.984364, -118.471047",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02360555555555,
+          17.745222222222225
+        ]
+      },
+      "properties": {
+        "caption": "Caye caulker belize",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reci4QuMqRPv5nr7T.webp",
+        "record_id": "reci4QuMqRPv5nr7T",
+        "location": "17.745222, -88.023606",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.829689,
+          40.758475
+        ]
+      },
+      "properties": {
+        "caption": "on mail box next to xing fu tea",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recbIY4cqi2xNLByF.webp",
+        "record_id": "recbIY4cqi2xNLByF",
+        "location": "40-52 Main St\nFlushing, NY  11354\nUnited States",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.20901388888889,
+          39.671191666666665
+        ]
+      },
+      "properties": {
+        "caption": "Top of geologic trail at redrocks CO",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recIXh0zDmVlGF2HP.webp",
+        "record_id": "recIXh0zDmVlGF2HP",
+        "location": "39.671192, -105.209014",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25496666666666,
+          32.79452777777777
+        ]
+      },
+      "properties": {
+        "caption": "7 eleven sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recBCuGhvZfn79fQx.webp",
+        "record_id": "recBCuGhvZfn79fQx",
+        "location": "32.794528, -117.254967",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25579166666667,
+          32.79601944444444
+        ]
+      },
+      "properties": {
+        "caption": "High voltage in the alley",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec5eZDul6gpuT5dQ.webp",
+        "record_id": "rec5eZDul6gpuT5dQ",
+        "location": "32.796019, -117.255792",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.24848888888889,
+          32.79816388888889
+        ]
+      },
+      "properties": {
+        "caption": "In front of the sushi place",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recyKchAWx0RaX6nw.webp",
+        "record_id": "recyKchAWx0RaX6nw",
+        "location": "32.798164, -117.248489",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2525111111111,
+          32.77153055555556
+        ]
+      },
+      "properties": {
+        "caption": "Transformer",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reclyucy59hGuOpWy.webp",
+        "record_id": "reclyucy59hGuOpWy",
+        "location": "32.771531, -117.252511",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25420277777778,
+          32.791866666666664
+        ]
+      },
+      "properties": {
+        "caption": "Blue pipe",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec5jXpfybL39269k.webp",
+        "record_id": "rec5jXpfybL39269k",
+        "location": "32.791867, -117.254203",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25436388888889,
+          32.79352222222222
+        ]
+      },
+      "properties": {
+        "caption": "Transformer",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recapT1ULftxmDK1V.webp",
+        "record_id": "recapT1ULftxmDK1V",
+        "location": "32.793522, -117.254364",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2559888888889,
+          32.794466666666665
+        ]
+      },
+      "properties": {
+        "caption": "Blue cage",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recYz6BERYMcSfWJr.webp",
+        "record_id": "recYz6BERYMcSfWJr",
+        "location": "32.794467, -117.255989",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25586666666666,
+          32.793949999999995
+        ]
+      },
+      "properties": {
+        "caption": "Sticker pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recu6Hg2TSztx5aAE.webp",
+        "record_id": "recu6Hg2TSztx5aAE",
+        "location": "32.793950, -117.255867",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.255875,
+          32.79355555555556
+        ]
+      },
+      "properties": {
+        "caption": "Back of the sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recqAx2MKq6Q5QYmd.webp",
+        "record_id": "recqAx2MKq6Q5QYmd",
+        "location": "32.793556, -117.255875",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25546388888888,
+          32.792030555555556
+        ]
+      },
+      "properties": {
+        "caption": "Pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recHU5TzqD2x9CYQb.webp",
+        "record_id": "recHU5TzqD2x9CYQb",
+        "location": "32.792031, -117.255464",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25510277777778,
+          32.790663888888886
+        ]
+      },
+      "properties": {
+        "caption": "Parking lot sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recahm455BTQDGriZ.webp",
+        "record_id": "recahm455BTQDGriZ",
+        "location": "32.790664, -117.255103",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25381388888889,
+          32.79076111111111
+        ]
+      },
+      "properties": {
+        "caption": "Walk button",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec4ktVx4d2jFOAZH.webp",
+        "record_id": "rec4ktVx4d2jFOAZH",
+        "location": "32.790761, -117.253814",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25410555555555,
+          32.79163333333333
+        ]
+      },
+      "properties": {
+        "caption": "Back of the sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recMW1Zi3sTo3tXwi.webp",
+        "record_id": "recMW1Zi3sTo3tXwi",
+        "location": "32.791633, -117.254106",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.254325,
+          32.79195833333333
+        ]
+      },
+      "properties": {
+        "caption": "Back of the other sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recccA421lbe0Cy4d.webp",
+        "record_id": "recccA421lbe0Cy4d",
+        "location": "32.791958, -117.254325",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2540361111111,
+          32.79244166666666
+        ]
+      },
+      "properties": {
+        "caption": "Walk button",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recKl6pZbabBydjTp.webp",
+        "record_id": "recKl6pZbabBydjTp",
+        "location": "32.792442, -117.254036",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25459166666667,
+          32.79453611111111
+        ]
+      },
+      "properties": {
+        "caption": "No skateboarding sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recZFrsnUnl79qOY9.webp",
+        "record_id": "recZFrsnUnl79qOY9",
+        "location": "32.794536, -117.254592",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25328888888889,
+          32.797066666666666
+        ]
+      },
+      "properties": {
+        "caption": "Parking meter",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recUmL94qWpiCur15.webp",
+        "record_id": "recUmL94qWpiCur15",
+        "location": "32.797067, -117.253289",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25175555555556,
+          32.79729722222222
+        ]
+      },
+      "properties": {
+        "caption": "Walk button",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recwBIkI0aI3Mh6r4.webp",
+        "record_id": "recwBIkI0aI3Mh6r4",
+        "location": "32.797297, -117.251756",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25140277777778,
+          32.79749722222222
+        ]
+      },
+      "properties": {
+        "caption": "Parking meter",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec5DzwtoygIfKWWh.webp",
+        "record_id": "rec5DzwtoygIfKWWh",
+        "location": "32.797497, -117.251403",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25125833333334,
+          32.79745833333333
+        ]
+      },
+      "properties": {
+        "caption": "ATTENTION!!",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reccVAhVudRkQlZjZ.webp",
+        "record_id": "reccVAhVudRkQlZjZ",
+        "location": "32.797458, -117.251258",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25106111111111,
+          32.797558333333335
+        ]
+      },
+      "properties": {
+        "caption": "Door to alley",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec8MWaixfk56Y6Fl.webp",
+        "record_id": "rec8MWaixfk56Y6Fl",
+        "location": "32.797558, -117.251061",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25106111111111,
+          32.79747777777778
+        ]
+      },
+      "properties": {
+        "caption": "Door frame",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recM9TnwAc95XU1wY.webp",
+        "record_id": "recM9TnwAc95XU1wY",
+        "location": "32.797478, -117.251061",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25158611111111,
+          32.79744722222222
+        ]
+      },
+      "properties": {
+        "caption": "Bike rack",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recR2U3Uy108D9qAe.webp",
+        "record_id": "recR2U3Uy108D9qAe",
+        "location": "32.797447, -117.251586",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25176944444445,
+          32.79729722222222
+        ]
+      },
+      "properties": {
+        "caption": "Back of the sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec5atxpGkypOdsDh.webp",
+        "record_id": "rec5atxpGkypOdsDh",
+        "location": "32.797297, -117.251769",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
     }
   ]
 }
