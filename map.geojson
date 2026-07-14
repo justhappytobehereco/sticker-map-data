@@ -2610,6 +2610,24 @@
         "location_source": "photo_exif_gps",
         "location_format": "latitude_longitude"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.977507,
+          43.0190862
+        ]
+      },
+      "properties": {
+        "caption": "4th base in west milwaukee",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recQBPS551nrR3QB0.webp",
+        "record_id": "recQBPS551nrR3QB0",
+        "location": "5117 W National Ave\nMilwaukee, WI  53214\nUnited States",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
     }
   ]
 }
