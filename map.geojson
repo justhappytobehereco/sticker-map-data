@@ -2558,55 +2558,91 @@
       "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           5.450722222222223,
           43.52898888888889
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "caption": "on the condom machine",
         "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recUqaDTYftPZIwMI.webp",
-        "record_id": "recUqaDTYftPZIwMI",
         "location": "43.528989, 5.450722",
+        "location_format": "latitude_longitude",
         "location_source": "photo_exif_gps",
-        "location_format": "latitude_longitude"
-      }
+        "record_id": "recUqaDTYftPZIwMI"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -87.55405555555555,
           44.15156111111111
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "caption": "On the bottom right corner of beach path sign. Across from concession stand",
         "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recDMmApBTlUKOcVn.webp",
-        "record_id": "recDMmApBTlUKOcVn",
         "location": "44.151561, -87.554056",
+        "location_format": "latitude_longitude",
         "location_source": "photo_exif_gps",
-        "location_format": "latitude_longitude"
-      }
+        "record_id": "recDMmApBTlUKOcVn"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           16.796016666666667,
           43.42267222222222
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "caption": "On a pole on a mountain",
         "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reclHVQ8P11WyLUIs.webp",
-        "record_id": "reclHVQ8P11WyLUIs",
         "location": "43.422672, 16.796017",
+        "location_format": "latitude_longitude",
+        "location_source": "photo_exif_gps",
+        "record_id": "reclHVQ8P11WyLUIs"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.977507,
+          43.0190862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "caption": "4th base in west milwaukee",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recQBPS551nrR3QB0.webp",
+        "location": "5117 W National Ave\nMilwaukee, WI  53214\nUnited States",
+        "location_format": "address_text",
+        "location_source": "airtable_address_geocoded",
+        "record_id": "recQBPS551nrR3QB0"
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62752499999999,
+          41.89329444444444
+        ]
+      },
+      "properties": {
+        "caption": "In the alley",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec0nsZSkWWAzOm5w.webp",
+        "record_id": "rec0nsZSkWWAzOm5w",
+        "location": "41.893294, -87.627525",
         "location_source": "photo_exif_gps",
         "location_format": "latitude_longitude"
       }
@@ -2616,17 +2652,413 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.977507,
-          43.0190862
+          -87.62835555555554,
+          41.89324444444444
         ]
       },
       "properties": {
-        "caption": "4th base in west milwaukee",
-        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recQBPS551nrR3QB0.webp",
-        "record_id": "recQBPS551nrR3QB0",
-        "location": "5117 W National Ave\nMilwaukee, WI  53214\nUnited States",
+        "caption": "Pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recxX6QEFpTsTKc4r.webp",
+        "record_id": "recxX6QEFpTsTKc4r",
+        "location": "41.893244, -87.628356",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62961666666666,
+          41.89335
+        ]
+      },
+      "properties": {
+        "caption": "Castle sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec3MTekZFFISkA4g.webp",
+        "record_id": "rec3MTekZFFISkA4g",
+        "location": "41.893350, -87.629617",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63040277777777,
+          41.892491666666665
+        ]
+      },
+      "properties": {
+        "caption": "Pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recxcQx6qFiwuxu3R.webp",
+        "record_id": "recxcQx6qFiwuxu3R",
+        "location": "41.892492, -87.630403",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62899722222221,
+          41.89318055555555
+        ]
+      },
+      "properties": {
+        "caption": "Yellow pylon",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recS23dbpdAK5LS6L.webp",
+        "record_id": "recS23dbpdAK5LS6L",
+        "location": "41.893181, -87.628997",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62676111111111,
+          41.893588888888885
+        ]
+      },
+      "properties": {
+        "caption": "Wake n bakery parking meter",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recWAl0BRDfVnhGrl.webp",
+        "record_id": "recWAl0BRDfVnhGrl",
+        "location": "41.893589, -87.626761",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8826346,
+          43.0586533
+        ]
+      },
+      "properties": {
+        "caption": "On a metal generator box",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recDnudzHPbNPdNzk.webp",
+        "record_id": "recDnudzHPbNPdNzk",
+        "location": "E Ivanhoe Pl, Milwaukee, WI 53202",
         "location_source": "airtable_address_geocoded",
         "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.81401944444444,
+          46.810827777777774
+        ]
+      },
+      "properties": {
+        "caption": "Bayfield inn",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recXCihPSgNHPUWhc.webp",
+        "record_id": "recXCihPSgNHPUWhc",
+        "location": "46.810828, -90.814019",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.81301944444444,
+          46.810916666666664
+        ]
+      },
+      "properties": {
+        "caption": "Docks",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reczKpWEWCfxwSUIu.webp",
+        "record_id": "reczKpWEWCfxwSUIu",
+        "location": "46.810917, -90.813019",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.81709166666667,
+          46.81036666666667
+        ]
+      },
+      "properties": {
+        "caption": "Street sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec2Tvflvpb4nBxL4.webp",
+        "record_id": "rec2Tvflvpb4nBxL4",
+        "location": "46.810367, -90.817092",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.81268333333333,
+          46.81191944444444
+        ]
+      },
+      "properties": {
+        "caption": "Picnic table",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recl8D2eKnEgMoO8D.webp",
+        "record_id": "recl8D2eKnEgMoO8D",
+        "location": "46.811919, -90.812683",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.39817777777779,
+          46.407488888888885
+        ]
+      },
+      "properties": {
+        "caption": "Snowboard bench",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec7jPZ90ceEFYx6h.webp",
+        "record_id": "rec7jPZ90ceEFYx6h",
+        "location": "46.407489, -90.398178",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.39819444444446,
+          46.407424999999996
+        ]
+      },
+      "properties": {
+        "caption": "Tunnel entrance/exit",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recwyal71f1g2zkTF.webp",
+        "record_id": "recwyal71f1g2zkTF",
+        "location": "46.407425, -90.398194",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.642325,
+          45.17625833333333
+        ]
+      },
+      "properties": {
+        "caption": "Taco bell",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reckbd6pTXZa6z6mw.webp",
+        "record_id": "reckbd6pTXZa6z6mw",
+        "location": "45.176258, -89.642325",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91366666666667,
+          43.02538611111111
+        ]
+      },
+      "properties": {
+        "caption": "Anodyne sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reczt2CMpBU8FW01O.webp",
+        "record_id": "reczt2CMpBU8FW01O",
+        "location": "43.025386, -87.913667",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8796611111111,
+          43.07776666666667
+        ]
+      },
+      "properties": {
+        "caption": "Pounces nuts",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recIszpmfDMNvfJyf.webp",
+        "record_id": "recIszpmfDMNvfJyf",
+        "location": "43.077767, -87.879661",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39295277777778,
+          43.07485833333334
+        ]
+      },
+      "properties": {
+        "caption": "insomnia cookie freshly baked :)",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recKrAixCKYXDZP6i.webp",
+        "record_id": "recKrAixCKYXDZP6i",
+        "location": "43.074858, -89.392953",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39484444444444,
+          43.07477222222222
+        ]
+      },
+      "properties": {
+        "caption": "Naf Naf grill",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recRL7LIWV7Xs7GXa.webp",
+        "record_id": "recRL7LIWV7Xs7GXa",
+        "location": "43.074772, -89.394844",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.18322777777779,
+          43.42487777777777
+        ]
+      },
+      "properties": {
+        "caption": "electric charging station pole",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recxUCWGNUA3ht8Dq.webp",
+        "record_id": "recxUCWGNUA3ht8Dq",
+        "location": "43.424878, -88.183228",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63934444444445,
+          41.881747222222224
+        ]
+      },
+      "properties": {
+        "caption": "Train station",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reclCGvFlduW8rQFo.webp",
+        "record_id": "reclCGvFlduW8rQFo",
+        "location": "41.881747, -87.639344",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62822777777777,
+          41.8926
+        ]
+      },
+      "properties": {
+        "caption": "Helping others helps yourself",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recuSKDi2RBsljUtr.webp",
+        "record_id": "recuSKDi2RBsljUtr",
+        "location": "41.892600, -87.628228",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62621944444444,
+          41.88746944444444
+        ]
+      },
+      "properties": {
+        "caption": "Box",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recxX62yiwqnXt96t.webp",
+        "record_id": "recxX62yiwqnXt96t",
+        "location": "41.887469, -87.626219",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63690833333334,
+          41.88588333333333
+        ]
+      },
+      "properties": {
+        "caption": "Sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rectaos0H4U3Vu8fN.webp",
+        "record_id": "rectaos0H4U3Vu8fN",
+        "location": "41.885883, -87.636908",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63665,
+          41.87943611111111
+        ]
+      },
+      "properties": {
+        "caption": "Sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recR4tseMEQuTppKR.webp",
+        "record_id": "recR4tseMEQuTppKR",
+        "location": "41.879436, -87.636650",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
       }
     }
   ]
