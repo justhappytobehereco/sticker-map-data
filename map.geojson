@@ -3062,19 +3062,37 @@
       "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -88.18098333333334,
           43.376647222222225
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "caption": "BP gas pump 7 🤪",
         "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recTMhd54N6TOsGi5.webp",
-        "record_id": "recTMhd54N6TOsGi5",
         "location": "43.376647, -88.180983",
+        "location_format": "latitude_longitude",
+        "location_source": "photo_exif_gps",
+        "record_id": "recTMhd54N6TOsGi5"
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90076388888889,
+          42.73413055555556
+        ]
+      },
+      "properties": {
+        "caption": "On the corner of Portico Dr and Old Sping St in Mount Pleasant, WI",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recezfEnfrm0nnIfV.webp",
+        "record_id": "recezfEnfrm0nnIfV",
+        "location": "42.734131, -87.900764",
         "location_source": "photo_exif_gps",
         "location_format": "latitude_longitude"
       }
