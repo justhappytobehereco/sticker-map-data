@@ -3080,19 +3080,91 @@
       "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -87.90076388888889,
           42.73413055555556
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "caption": "On the corner of Portico Dr and Old Sping St in Mount Pleasant, WI",
         "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recezfEnfrm0nnIfV.webp",
-        "record_id": "recezfEnfrm0nnIfV",
         "location": "42.734131, -87.900764",
+        "location_format": "latitude_longitude",
+        "location_source": "photo_exif_gps",
+        "record_id": "recezfEnfrm0nnIfV"
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8041391,
+          39.6604378
+        ]
+      },
+      "properties": {
+        "caption": "Burlington and on the motorcycle",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recJsY2VqQ4b9oufB.webp",
+        "record_id": "recJsY2VqQ4b9oufB",
+        "location": "472 Mchenry st",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8952659,
+          42.5224278
+        ]
+      },
+      "properties": {
+        "caption": "outside turner’s seafood",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recitNkuadU4uFzqR.webp",
+        "record_id": "recitNkuadU4uFzqR",
+        "location": "43 Church St Salem, MA  01970 United States",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7706598,
+          32.8371932
+        ]
+      },
+      "properties": {
+        "caption": "under the kroger sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recst2CUI4b89NyeP.webp",
+        "record_id": "recst2CUI4b89NyeP",
+        "location": "5671 E Mockingbird Ln Dallas, TX  75206 United States",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.24562777777778,
+          22.244822222222222
+        ]
+      },
+      "properties": {
+        "caption": "Trail sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rectF0H9CBesuvjP3.webp",
+        "record_id": "rectF0H9CBesuvjP3",
+        "location": "22.244822, 114.245628",
         "location_source": "photo_exif_gps",
         "location_format": "latitude_longitude"
       }
