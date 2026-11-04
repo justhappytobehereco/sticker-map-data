@@ -3098,55 +3098,145 @@
       "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -78.8041391,
           39.6604378
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "caption": "Burlington and on the motorcycle",
         "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recJsY2VqQ4b9oufB.webp",
-        "record_id": "recJsY2VqQ4b9oufB",
         "location": "472 Mchenry st",
+        "location_format": "address_text",
         "location_source": "airtable_address_geocoded",
-        "location_format": "address_text"
-      }
+        "record_id": "recJsY2VqQ4b9oufB"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -70.8952659,
           42.5224278
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "caption": "outside turner’s seafood",
         "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recitNkuadU4uFzqR.webp",
-        "record_id": "recitNkuadU4uFzqR",
         "location": "43 Church St Salem, MA  01970 United States",
+        "location_format": "address_text",
         "location_source": "airtable_address_geocoded",
-        "location_format": "address_text"
-      }
+        "record_id": "recitNkuadU4uFzqR"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -96.7706598,
           32.8371932
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "caption": "under the kroger sign",
         "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recst2CUI4b89NyeP.webp",
-        "record_id": "recst2CUI4b89NyeP",
         "location": "5671 E Mockingbird Ln Dallas, TX  75206 United States",
+        "location_format": "address_text",
+        "location_source": "airtable_address_geocoded",
+        "record_id": "recst2CUI4b89NyeP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.24562777777778,
+          22.244822222222222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "caption": "Trail sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rectF0H9CBesuvjP3.webp",
+        "location": "22.244822, 114.245628",
+        "location_format": "latitude_longitude",
+        "location_source": "photo_exif_gps",
+        "record_id": "rectF0H9CBesuvjP3"
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.77751111111111,
+          43.62761388888889
+        ]
+      },
+      "properties": {
+        "caption": "Sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reczUHjHYHcp6zbVi.webp",
+        "record_id": "reczUHjHYHcp6zbVi",
+        "location": "43.627614, -89.777511",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.77748055555556,
+          43.62761388888889
+        ]
+      },
+      "properties": {
+        "caption": "Ashtray",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec1cpKRLlsIHLXcn.webp",
+        "record_id": "rec1cpKRLlsIHLXcn",
+        "location": "43.627614, -89.777481",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.77080555555555,
+          43.627494444444444
+        ]
+      },
+      "properties": {
+        "caption": "parking sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recRpqRq1GZU6zwwI.webp",
+        "record_id": "recRpqRq1GZU6zwwI",
+        "location": "43.627494, -89.770806",
+        "location_source": "photo_exif_gps",
+        "location_format": "latitude_longitude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.6991166,
+          21.273042
+        ]
+      },
+      "properties": {
+        "caption": "at the very top of koko head, hawaii",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recLRD7zre9m3Dbo7.webp",
+        "record_id": "recLRD7zre9m3Dbo7",
+        "location": "Koko Head Hawaii",
         "location_source": "airtable_address_geocoded",
         "location_format": "address_text"
       }
@@ -3156,17 +3246,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.24562777777778,
-          22.244822222222222
+          -157.8116771,
+          21.2597515
         ]
       },
       "properties": {
-        "caption": "Trail sign",
-        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rectF0H9CBesuvjP3.webp",
-        "record_id": "rectF0H9CBesuvjP3",
-        "location": "22.244822, 114.245628",
-        "location_source": "photo_exif_gps",
-        "location_format": "latitude_longitude"
+        "caption": "on the way down, right before/after the spiral staircase",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/rec1QzpQeD0gLD9RJ.webp",
+        "record_id": "rec1QzpQeD0gLD9RJ",
+        "location": "Diamond Head Hawaii",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47692,
+          37.83132
+        ]
+      },
+      "properties": {
+        "caption": "Looking at the bridge on a sign",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/recpsQzxBcdeM00bJ.webp",
+        "record_id": "recpsQzxBcdeM00bJ",
+        "location": "Golden Gate Bridge North Vista Point",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.21628,
+          43.23341
+        ]
+      },
+      "properties": {
+        "caption": "on the trail near monterey bay kayaks",
+        "image": "https://raw.githubusercontent.com/justhappytobehereco/sticker-map-data/main/images/reclxUuMejEKxYToj.webp",
+        "record_id": "reclxUuMejEKxYToj",
+        "location": "Monterey Municipal Beach",
+        "location_source": "airtable_address_geocoded",
+        "location_format": "address_text"
       }
     }
   ]
